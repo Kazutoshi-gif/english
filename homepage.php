@@ -175,14 +175,14 @@ include "connection.php";
           </div>
 
           <div class="card">
-          <img src="..." class="card-img-top" alt="...">
+          <img src="" class="card-img-top" alt="...">
             <div class="card-body">
             <div class="card-title">book</div>
             </div>
           </div>
 
           <div class="card">
-          <img src="..." class="card-img-top" alt="...">
+          <img src="" class="card-img-top" alt="...">
             <div class="card-body">
             <div class="card-title">book</div>
             </div>
